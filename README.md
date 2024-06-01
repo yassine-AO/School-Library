@@ -4,7 +4,7 @@ This project is a C-based application designed to manage the operations of a sch
 # Features⭐
 
 Book Management:✔️
-"Add Book": Enter details such as title, ISBN, edition, and number of copies.
+Add Book: Enter details such as title, ISBN, edition, and number of copies.
 
 Delete Book: Remove books from the library database.
 
