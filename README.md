@@ -15,9 +15,9 @@ Delete Student: Remove students from the library system.
 Modify Student: Update student information.
 
 Book Search and Reservation:✔️
-Search Books: Find books by title or other attributes.
-Borrow Book: Borrow a book from the library.
-Reserve Book: Reserve a book if it is currently unavailable.
+ Search Books: Find books by title or other attributes.
+ Borrow Book: Borrow a book from the library.
+ Reserve Book: Reserve a book if it is currently unavailable.
 
 # Technologies Used⭐
 C Programming Language: Core logic and functionality.
